@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="footballManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FM/footballManager.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
